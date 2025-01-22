@@ -8,7 +8,6 @@
 - Variables
 - Input de datos
 - Numbers
-- Booleanos
 - String
 - Ejercicios
 
