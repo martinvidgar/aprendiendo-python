@@ -1,6 +1,6 @@
 # Aprendizaje de Python desde cero
 
-## Primer dia
+## Dia 01
 
 - Hola Mundo
 - Tipos de datos
@@ -12,4 +12,9 @@
 - String
 - Ejercicios
 
-CURSO DE APRENDIZAJE DE PYTHON
+## Dia 02
+ - Booleanos
+ - Condicionales
+ - Listas
+ - Bucles
+ - Funciones
