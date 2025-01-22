@@ -1,6 +1,6 @@
 # Aprendizaje de Python desde cero
 
-## Dia 01
+## Semana 01
 
 - Hola Mundo
 - Tipos de datos
@@ -12,9 +12,7 @@
 - String
 - Ejercicios
 
-## Dia 02
+## Semana 02
  - Booleanos
  - Condicionales
  - Listas
- - Bucles
- - Funciones
