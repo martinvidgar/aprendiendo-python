@@ -9,7 +9,6 @@
 - Input de datos
 - Numbers
 - String
-- Ejercicios
 
 ## Semana 02
  - Booleanos
